@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&family=Fleur+De+Leah&family=Raleway&display=swap');
+
+@import url("components/container.css");
+@import url("components/ourproducts.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'El Messiri', sans-serif;
+	font-size: 40px;
+}
+
+h2 {
+	font-family: 'Fleur De Leah', cursive;
+	font-size: 50px;
+}
+
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: black;
+}	
+
+.linknames:hover {
+	color: #B85C38;
+}

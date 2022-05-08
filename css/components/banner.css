@@ -1,0 +1,24 @@
+.banner {
+	background-image: url(../../images/bakingblack-picture.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h2 {
+	font-size: 70px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #B85C38;
+}
+
+.banner h1 {
+	font-size: 40px;
+	font-weight: lighter;
+	opacity: 0.8
+}
+
+.banner p {
+	margin-bottom: 40px;
+}
